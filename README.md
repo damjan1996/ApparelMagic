@@ -1,4 +1,5 @@
-ApparelMagic Tools Repository
+# ApparelMagic Tools Repository
+
 This repository houses a collection of Python scripts aimed to optimize, automate, and enhance various functionalities within the ApparelMagic system. These tools form an essential part of an inventory management and data handling routine, providing much-needed efficiency and accuracy.
 
 The repository consists of the following scripts:
