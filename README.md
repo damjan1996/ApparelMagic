@@ -16,10 +16,12 @@ The ApparelMagic API GTIN Updater is an essential tool designed to update the Gl
 4. ApparelMagic Product Properties Bulk Updater for RESTful API
 A productivity tool that allows for bulk updates of product properties in the ApparelMagic system through a RESTful API. This script greatly enhances efficiency in product information management, reducing manual input and potential errors.
 
-How to Use
+# How to Use
+
 Each script in this repository is designed to be standalone. To use them, clone the repository, navigate to the script you wish to use, and follow the specific instructions for each tool. Make sure to install any necessary dependencies and configure any needed API credentials or application-specific settings.
 
 Please note that these scripts are developed with a certain version of the ApparelMagic system in mind. If you encounter any compatibility issues, please raise an issue for this repository.
 
-Contributions
+# Contributions
+
 Contributions are welcome! If you have improvements, bug fixes or other changes you would like to make, please fork the repository, make your changes, and submit a pull request.
